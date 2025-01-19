@@ -1,0 +1,46 @@
+.detail-book-page {
+    background: linear-gradient(to right, #e0f7fa, #ffffff);
+    min-height: 100vh;
+    padding-top: 50px;
+}
+
+.book-card {
+    max-width: 100%;
+    margin: auto;
+    border-radius: 10px;
+    border: none;
+    background-color: #fdfdfd;
+    transition: all 0.3s ease-in-out;
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+.custom-btn {
+    border-radius: 30px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+.custom-btn:hover {
+    background-color: #01796f;
+    color: white;
+}
+
+.book-image {
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.book-title {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+.book-description {
+    font-family: 'Open Sans', sans-serif;
+    color: #555;
+    line-height: 1.6;
+}
