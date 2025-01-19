@@ -1,4 +1,4 @@
-# 📚 MERN Stack Book Store
+# 📚 MERN Stack Book App - BOOKIFY
 
 A simple **Book Store Application** built using the **MERN stack** (MongoDB, Express.js, React, Node.js). This app demonstrates basic **CRUD operations** with a clean UI styled using **Bootstrap**.
 
